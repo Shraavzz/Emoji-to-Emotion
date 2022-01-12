@@ -1,0 +1,72 @@
+body
+{
+  font-family: 'Oooh Baby', cursive;
+  background: #9f86eb;
+}
+.header_div
+  {
+  background: #a476ad;
+  color: #4d0730; 
+  }
+  .header_div img
+  {
+    width: 100px
+  }
+  .main_div
+  {
+    background:#b78ade;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid rgb(87, 14, 71);
+  }
+  .main_div label
+  {
+    background: rgb(177, 49, 236);
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(230, 29, 203); 
+    font-size: 25px;   
+  }
+  #camera , #result
+  {
+    border: 2px solid rgb(87, 14, 71);
+    width: 310px;
+    height: 300px; 
+    box-shadow: 5px 5px 18px rgb(230, 29, 203);   
+  }
+  .main_div button
+  {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px rgb(230, 29, 203);
+    border: 1px solid;
+    font-size: 20px;
+  }
+  .footer_div
+  {
+    margin-bottom: 50px;
+  }
+
+  .footer_div h4
+  {
+    background: #a476ad;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px rgb(230, 29, 203); 
+    font-size: 25px; 
+    font-weight: bolder;
+  }
+  .footer_div img
+  {
+    width: 70px;
+  }
+  .copy_right_footer {
+   position: fixed;
+   color: #6c757d;
+   bottom: 0;
+   width: 100%;
+   background-color: #f5f5f5;
+   line-height: 3;
+   text-align: center;
+}
